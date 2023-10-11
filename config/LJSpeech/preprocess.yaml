@@ -3,7 +3,7 @@ dataset: "LJSpeech"
 path:
   corpus_path: "/home/ming/Data/LJSpeech-1.1"
   lexicon_path: "lexicon/librispeech-lexicon.txt"
-  raw_path: "./raw_data/LJSpeech"
+  raw_path: "resources/before_align"
   preprocessed_path: "./preprocessed_data/LJSpeech"
 
 preprocessing:
